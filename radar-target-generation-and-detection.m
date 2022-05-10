@@ -148,8 +148,8 @@ figure,surf(doppler_axis,range_axis,RDM);
 
 % *%TODO* :
 %Select the number of Training Cells in both the dimensions.
-Tr = 10;
-Td = 8;
+Tr = 6;
+Td = 10;
 
 % *%TODO* :
 %Select the number of Guard Cells in both dimensions around the Cell under 
