@@ -1,5 +1,5 @@
 # RADAR-target-generation-and-detection
-In this project, an FMCW RADAR is configured. The transmit and receive signals are processed using FFT and CFAR to determine the range and velocity of the target"
+In this project, an FMCW RADAR is configured. The transmitted and received signals are processed using FFT and CFAR to determine the range and velocity of the target
 
 ## Project overview
 ![radar overview](https://user-images.githubusercontent.com/48198017/147384345-3214cb23-d2a4-4d0f-8069-7702290f0dce.PNG)
